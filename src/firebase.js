@@ -1,3 +1,10 @@
+//Author:Harikrishnan Kuppusamykrishnan
+//Project: Portfolio Website
+//Date: 08/06/2020
+//Description: Firebase config
+
+//firebase will be used for authentication and hosting
+
  export const firebaseConfig = {
     apiKey: "AIzaSyBaM-LGugBPAe7e0QNM_RN6vkpsx0_6-5Q",
     authDomain: "whatshari-f7f06.firebaseapp.com",
